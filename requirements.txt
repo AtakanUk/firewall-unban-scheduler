@@ -1,0 +1,5 @@
+requests>=2.28
+resilient>=40.0
+python-dotenv>=1.0
+# only for the SOAR app functions in soar_app/
+# resilient-circuits>=40.0
